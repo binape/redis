@@ -1839,6 +1839,7 @@ void incrbyfloatCommand(client *c);
 void selectCommand(client *c);
 void swapdbCommand(client *c);
 void randomkeyCommand(client *c);
+void akeysCommand(client *c);
 void keysCommand(client *c);
 void scanCommand(client *c);
 void dbsizeCommand(client *c);
